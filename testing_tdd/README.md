@@ -15,7 +15,7 @@
 
 ## Установка
 ```bash
-pip install --index-url https://test.pypi.org/simple/ ndfl-
+pip install --index-url https://test.pypi.org/simple/ ndfl-calculator200489
 ```
 
 ## Использование
