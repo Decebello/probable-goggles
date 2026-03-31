@@ -57,4 +57,4 @@ make upload     # загрузить на TestPyPI
 ## Ссылки
 
 - [Проект на TestPyPI]()
-- [Репозиторий на GitHub]()
+- [Репозиторий на GitHub](https://github.com/Decebello/probable-goggles/tree/feature/ndfl-calculator200489)
