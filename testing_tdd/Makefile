@@ -17,5 +17,9 @@ typecheck:
 docs:
 	python -m pydoc -w ndfl.calculator
 
-docs:
-	python -m pydoc -w ndfl.calculator
+build:
+	rm -rf dist/
+	python -m build
+
+upload:
+	.venv\Scripts\twine upload --repository testpypi dist/*
